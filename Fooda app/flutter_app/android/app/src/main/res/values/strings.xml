@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Google Sign In 配置 -->
+    <!-- 
+    請將 YOUR_GOOGLE_CLIENT_ID 替換為從 google-services.json 中獲取的實際 Client ID
+    
+    步驟：
+    1. 從 Firebase Console 下載 google-services.json
+    2. 在該文件中找到 "client" > "oauth_client" > "client_id"
+    3. 複製 client_id 值並替換下面的 YOUR_GOOGLE_CLIENT_ID
+    
+    例如：123456789-abcdefghijklmnop.apps.googleusercontent.com
+    -->
+    <string name="default_web_client_id">1011245535995-vievbao57tt9tpkspl0i868osr5kk32t.apps.googleusercontent.com</string>
+    
+    <!-- 應用名稱 -->
+    <string name="app_name">Fooda</string>
+</resources>
